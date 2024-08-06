@@ -1,0 +1,16 @@
+
+
+
+i. Về phía người dùng
+- Login với social (google, facebook)
+- Có các danh mục phim, một phim có thể thuộc vào nhiều danh mục.
+- Có các page như trang chủ, category, film, kết quả tìm kiếm.
+- sidebar gợi ý các phim cùng thể loại
+- Xem phim trực tuyến via youtube. bật/tắt đèn khi xem
+- Tìm kiếm theo tên phim
+- Người dùng có thể vote phim (1* -> 5*), comment, lấy link chia sẻ qua facebook
+ii. Về phía admin
+- Quản lý được danh mục (thể loại phim)
+- Quản lý được danh sách phim
+- Quản lý được user trong hệ thống
+- Quản lí comment : "blacklist" trong feedback table -> xu li comment tieu cuc-> an comment
