@@ -1,5 +1,5 @@
-"# vmo-movie-app" 
-Main fucntion
+
+Core Features
 ![image](https://github.com/user-attachments/assets/de49c677-9723-4103-9436-69ca2d4bfbbf)
 
 
@@ -8,7 +8,8 @@ demo FE monitor :
 
 
 Technology Used:
-![image](https://github.com/user-attachments/assets/cff1041a-11aa-457a-adf7-998d1a1da5a2)
+![image](https://github.com/user-attachments/assets/eec9456b-e780-4ce7-aaf5-00adac74420c)
+
 
 
 Project Timeline and Milestones
